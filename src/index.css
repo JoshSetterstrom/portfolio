@@ -15,8 +15,8 @@ html {
         BlinkMacSystemFont,
         'Segoe UI',
         sans-serif;
-    color: #f3f6f9;
-    background: #0a0d12;
+    color: #1e211f;
+    background: #f4f1ea;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ body {
     min-width: 320px;
     min-height: 100vh;
     margin: 0;
-    overflow-x: hidden;
+    background: #f4f1ea;
 }
 
 button,
@@ -40,6 +40,6 @@ a {
 }
 
 ::selection {
-    color: #07140f;
-    background: #95ffcf;
+    color: #ffffff;
+    background: #155eef;
 }
