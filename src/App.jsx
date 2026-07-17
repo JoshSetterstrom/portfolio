@@ -91,7 +91,7 @@ const App = () => (
 
         <main id="top">
             <section className="intro" aria-labelledby="page-title">
-                <p className="intro__location">Vancouver, BC</p>
+                <p className="intro__location">Port Coquitlam, BC</p>
                 <h1 id="page-title">Josh Setterstrom</h1>
                 <p className="intro__role">
                     Software Developer &amp; Automation Specialist
